@@ -1,6 +1,6 @@
 {"alpha-goerli":
    {"__default__":{"address":"0x07d9bdda20cdd921d169a8892a54925d7ba4553dc91ba98c61b75b54399c72d3",
-                   "private_key":"0x071147e00b09d7cb1a0d1b10f5d91201c1642d27dd9d61e349c198a0a0df763c"}
+                   "private_key":PK.env}
    }
 }
 
