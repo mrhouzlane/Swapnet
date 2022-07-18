@@ -20,3 +20,6 @@ The contract is deployed on StarkNet testnet by running :
 - Contract address : 0x003eb294c57b21e498658d23e879adde1d97aba36ec8a4958152fc519401ffdb
 
 
+In the command line do : 
+
+```export CONTRACT_ADDRESS= "0x003eb294c57b21e498658d23e879adde1d97aba36ec8a4958152fc519401ffdb" ``` 
